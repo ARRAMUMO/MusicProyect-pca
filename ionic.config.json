@@ -1,0 +1,7 @@
+{
+  "name": "MusicProyect-pca",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
