@@ -1,6 +1,6 @@
 swiper-container{
-  width:100%;
-  height:100%;
+  width:90%;
+  height:80%;
 }
 swiper-slide{
   display: flex;
@@ -10,5 +10,21 @@ swiper-slide{
 }
 
 .cool-title{
-  color:blue;
+  color:rgb(165, 8, 8);
+}
+
+.custon-bg-color{ 
+  --background: aqua;
+}
+
+.sp-bg-color{
+  background: blueviolet;
+}
+// ESTO APLICA BORDER A TODOS LOS AVATAR
+//ion-avatar {
+  //--border-radius: 20px;
+//}
+
+.style-avatar {
+  --border-radius: 0px;
 }
